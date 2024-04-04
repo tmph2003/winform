@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\themsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\themsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\suathongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\suathongtinsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\quanlydiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\manhinhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|c:\\users\\phuong\\desktop\\code thu\u00EA\\btl_nhom1\\btl_nhom1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650A7CE2-E8F1-4F7E-A972-828D59FF7B3D}|BTL_Nhom1\\BTL_Nhom1.csproj|solutionrelative:btl_nhom1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\ThemSinhVien.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\ThemSinhVien.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\ThemSinhVien.cs [Design]",
+              "RelativeToolTip": "BTL_Nhom1\\ThemSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:56:02.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuaThongTinSinhVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\SuaThongTinSinhVien.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\SuaThongTinSinhVien.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\SuaThongTinSinhVien.cs [Design]",
+              "RelativeToolTip": "BTL_Nhom1\\SuaThongTinSinhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:55:51.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyDiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\QuanLyDiem.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\QuanLyDiem.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\QuanLyDiem.cs [Design]",
+              "RelativeToolTip": "BTL_Nhom1\\QuanLyDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:55:51.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManHinhChinh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\ManHinhChinh.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\ManHinhChinh.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\ManHinhChinh.cs [Design]",
+              "RelativeToolTip": "BTL_Nhom1\\ManHinhChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:55:46.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\DangNhap.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\DangNhap.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\DangNhap.cs [Design]",
+              "RelativeToolTip": "BTL_Nhom1\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:55:44.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\DangKy.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\DangKy.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\DangKy.cs [Design]",
+              "RelativeToolTip": "BTL_Nhom1\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:55:43.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\Program.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom1\\Program.cs",
+              "ToolTip": "C:\\Users\\Phuong\\Desktop\\Code thu\u00EA\\BTL_Nhom1\\BTL_Nhom1\\Program.cs",
+              "RelativeToolTip": "BTL_Nhom1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T22:40:29.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
